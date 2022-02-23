@@ -2,7 +2,7 @@
 Intallation wordpress server with 2 tier application
 
 # PREETHAM BABU PAREPALLI
-# ANIR NATH SHRUTHI
+# ANIR NATH SHRUTHI MANTHENA
 nath
 ggjkkjkhkjhkjl
 
